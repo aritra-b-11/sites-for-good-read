@@ -1,0 +1,23 @@
+* Emacs code snippets
+
+** Org Mode
+
+*** Org table remote range
+    http://emacs.stackexchange.com/questions/17906/convert-org-time-stamp
+
+    #+begin_src emacs-lisp :tangle yes
+
+    (substring-no-properties (org-table-get-remote-range "test" "@<$1"))
+    (org-read-date nil t "<2015-11-06>" nil)
+    #end_src
+
+*** date arithmatic, addition, get range etc
+    http://sachachua.com/blog/2015/08/org-mode-date-arithmetic/
+
+*** Org bable code example for all languages
+    https://github.com/dfeich/org-babel-examples
+
+* Anonymous
+
+** torrenting anonymously
+   https://maymay.net/blog/2015/01/03/howto-download-movies-games-books-and-other-digital-media-freely-and-anonymously-using-bittorrent-with-public-proxies/
