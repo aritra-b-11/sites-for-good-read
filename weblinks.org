@@ -9,7 +9,7 @@
 
     (substring-no-properties (org-table-get-remote-range "test" "@<$1"))
     (org-read-date nil t "<2015-11-06>" nil)
-    #end_src
+    #+end_src
 
 *** date arithmatic, addition, get range etc
     http://sachachua.com/blog/2015/08/org-mode-date-arithmetic/
