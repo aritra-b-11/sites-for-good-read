@@ -2,6 +2,8 @@
 
 ** Org Mode
 
+*** taskjuggler
+http://orgmode.org/worg/org-tutorials/org-taskjuggler.html
 *** Org table remote range
     http://emacs.stackexchange.com/questions/17906/convert-org-time-stamp
 
