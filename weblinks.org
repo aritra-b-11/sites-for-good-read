@@ -25,5 +25,8 @@
 
 * Anonymous
 
+** dynamic IP
+make a dynamic ip address
+https://www.noip.com/
 ** torrenting anonymously
    https://maymay.net/blog/2015/01/03/howto-download-movies-games-books-and-other-digital-media-freely-and-anonymously-using-bittorrent-with-public-proxies/
