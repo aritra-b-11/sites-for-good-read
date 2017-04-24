@@ -25,6 +25,8 @@
 
 * Anonymous
 
+** set up a static IP with port forwarding
+http://ubuntuserverhelp.com/setting-up-a-static-ip/
 ** dynamic IP
 make a dynamic ip address
 https://www.noip.com/
