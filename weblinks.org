@@ -23,6 +23,8 @@
 *** Org bable code example for all languages
     https://github.com/dfeich/org-babel-examples
 
+** create new mode
+https://www.emacswiki.org/emacs/ModeTutorial
 * Anonymous
 
 ** set up a static IP with port forwarding
