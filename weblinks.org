@@ -33,4 +33,8 @@ http://ubuntuserverhelp.com/setting-up-a-static-ip/
 make a dynamic ip address
 https://www.noip.com/
 ** torrenting anonymously
+
    https://maymay.net/blog/2015/01/03/howto-download-movies-games-books-and-other-digital-media-freely-and-anonymously-using-bittorrent-with-public-proxies/
+* andiod app dev
+** andriod studio install in linux
+https://askubuntu.com/questions/634082/how-to-install-android-studio-on-ubuntu
