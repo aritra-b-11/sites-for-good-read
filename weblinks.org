@@ -38,3 +38,7 @@ https://www.noip.com/
 * andiod app dev
 ** andriod studio install in linux
 https://askubuntu.com/questions/634082/how-to-install-android-studio-on-ubuntu
+* bitcoin
+** create a coldstorage wallet using electrum
+https://github.com/bitkey/bitkey
+
